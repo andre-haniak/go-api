@@ -1,0 +1,16 @@
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos de configuração
+*.env
+*.conf
