@@ -6,6 +6,8 @@
 
 # Arquivos de log
 *.log
+.env
+
 
 # Arquivos de backup
 *~
