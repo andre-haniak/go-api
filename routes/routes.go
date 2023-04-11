@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-api/controllers"
+	"github.com/andre-haniak/go-api/controllers"
 	"log"
 	"net/http"
 )

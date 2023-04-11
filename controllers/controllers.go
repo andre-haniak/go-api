@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"go-api/models"
+	"github.com/andre-haniak/go-api/models"
 	"net/http"
 )
 

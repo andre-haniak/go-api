@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-api/models"
-	"go-api/routes"
+	"github.com/andre-haniak/go-api/models"
+	"github.com/andre-haniak/go-api/routes"
 )
 
 func main() {
